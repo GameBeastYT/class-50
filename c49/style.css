@@ -1,0 +1,36 @@
+h1 {
+    color: blue
+}
+
+* {
+    border: solid
+}
+
+.header {
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headd {
+    background-color: lime;
+    display: flex;
+    justify-content: center;
+}
+
+.unknown {
+    background-color: orange;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer {
+    background-color: royalblue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p {
+    text-align: center;
+}
